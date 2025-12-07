@@ -15,7 +15,7 @@ git clone https://github.com/<your-username>/<repository-name>.git
 cd <repository-name>
 \```
 
-3. Создай виртуальное окружение
+3. Create a virtual environment
 
 \```Bash
 python -m venv venv
